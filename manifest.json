@@ -37,6 +37,6 @@
   "display": "standalone",
   "start_url": "/index.html",
   "description": "Let's explore good food near you",
-  "theme_color": "#ffc107",
-  "background_color": "#ffc107"
+  "theme_color": "#607d8b9c",
+  "background_color": "#607d8b9c"
 }
